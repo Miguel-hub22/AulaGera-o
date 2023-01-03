@@ -1,6 +1,6 @@
 
 programa {
-  função  inicio () {
+  função  inicio (
     //Exercício 01
     número inteiro
     cadeia parOuImpar
