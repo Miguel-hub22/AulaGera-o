@@ -1,7 +1,6 @@
-
 programa {
   função  inicio () {
-    //Exercício 01
+    
     número inteiro
     cadeia parOuImpar
     cadeia negativaOuPositivo
@@ -43,8 +42,7 @@ programa {
 
     escreva ( "\nA pessoa" + aptaAVotar + votoFacutativo + "." )
   }
-
-  }
+}
   
  
     
