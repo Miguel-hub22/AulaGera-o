@@ -1,5 +1,4 @@
 
-@@ -0,0 +1,46 @@
 programa {
   função  inicio () {
     //Exercício 01
@@ -43,5 +42,9 @@ programa {
     }
 
     escreva ( "\nA pessoa" + aptaAVotar + votoFacutativo + "." )
+  }
 
   }
+  
+ 
+    
